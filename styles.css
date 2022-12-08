@@ -1,0 +1,66 @@
+div.container {
+    padding-top: 100px
+}
+
+div.navigation {
+    float: left;
+}
+
+#name {
+    font-size: 35px;
+}
+
+h1, h2, h3, h4 {
+    color: orange;
+    font-size: 25px;
+}
+
+dt {
+    font-style: italic;
+}
+
+nav {
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+}
+
+#title-block-header {
+    padding-top: 16px;
+    float: left;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+body.index {
+    margin: auto;
+    max-width: 44em;
+    padding-right: 1em;
+    padding-left: 1em;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 100%;
+    line-height: 140%;
+    color: #333;
+}
+
+body.resume {
+    margin: auto;
+    max-width: 44em;
+    padding-right: 1em;
+    padding-left: 1em;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 100%;
+    line-height: 140%;
+    color: #333;
+}
